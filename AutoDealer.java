@@ -1,13 +1,16 @@
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
+//
 public class AutoDealer {
+  // JAVA SLOW PRINT ATTRIBUTION. CREATED BY plscodeinjava.
+  // https://replit.com/talk/learn/Slow-Print-tutorial-for-JAVA/51697
   public static void slowPrint(String output) {
     for (int i = 0; i < output.length(); i++) {
       char c = output.charAt(i);
       System.out.print(c);
       try {
-        TimeUnit.MILLISECONDS.sleep(33);
+        TimeUnit.MILLISECONDS.sleep(15);
       } catch (Exception e) {
       }
     }
