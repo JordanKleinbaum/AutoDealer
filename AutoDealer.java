@@ -1,11 +1,10 @@
 //Name: Jordan Kleinbaum
 //Date: 9/5
-// AutoDealer Project
+// Purpose: Homework 2 AutoDealer Project
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
-//
 public class AutoDealer {
   // JAVA SLOW PRINT ATTRIBUTION. CREATED BY plscodeinjava.
   // https://replit.com/talk/learn/Slow-Print-tutorial-for-JAVA/51697
