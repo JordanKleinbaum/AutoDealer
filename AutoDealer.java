@@ -1,3 +1,7 @@
+//Name: Jordan Kleinbaum
+//Date: 9/5
+// AutoDealer Project
+
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
